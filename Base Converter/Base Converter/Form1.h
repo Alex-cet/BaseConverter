@@ -232,7 +232,6 @@ namespace CppCLRWinFormsProject {
 
         }
 #pragma endregion
-
         private: System::Void textBoxGotFocus(Object^ sender, EventArgs^ e)
         {
             // Change the background color when the TextBox gets focus (is clicked)
@@ -255,7 +254,6 @@ namespace CppCLRWinFormsProject {
             // Check if the Enter key was pressed
             if (e->KeyChar == (char)Keys::Enter)
             {
-
                 // Declaring the variables used for displaying the converted numbers
                 System::String^ hexVal;
                 unsigned int unsignedDecVal = 0;
