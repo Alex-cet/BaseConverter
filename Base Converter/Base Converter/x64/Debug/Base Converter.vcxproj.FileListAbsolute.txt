@@ -1,0 +1,3 @@
+C:\Users\Alex\Desktop\BaseConverter\Base Converter\Base Converter\x64\Debug\Base Converter.vcxproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\BaseConverter\Base Converter\Base Converter\x64\Debug\Base_Converter.Form1.resources
+C:\Users\Alex\Desktop\BaseConverter\Base Converter\Base Converter\x64\Debug\Base Converter.vcxproj.GenerateResource.cache
