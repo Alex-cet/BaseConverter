@@ -1,1 +1,2 @@
 # BaseConverter
+This project was made using a C++/CLR project with Windows Form and features a simple base convertion program which takes as an input a number in one of the three bases: Hexadecimal, Decimal or Binary. After pressing the "Enter" key, the input number will be displayed in all of the 3 bases (including also unsigned decimal). The user can clear the list by pressing the "Clear List" button and close the application with the "Close" button.
